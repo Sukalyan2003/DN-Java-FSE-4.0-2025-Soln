@@ -1,0 +1,10 @@
+2025-06-29 09:14:40 DEBUG org.example.AppenderExample - This is a debug message
+2025-06-29 09:14:40 INFO  org.example.AppenderExample - This message goes to both console and file
+2025-06-29 09:14:40 WARN  org.example.AppenderExample - This is a warning
+2025-06-29 09:14:40 ERROR org.example.AppenderExample - This is an error message
+2025-06-29 09:14:58 ERROR org.example.LoggingExample - This is an error message
+2025-06-29 09:14:58 WARN  org.example.LoggingExample - This is a warning message
+2025-06-29 09:16:07 INFO  o.e.ParameterizedLoggingExample - User Sumit has logged in
+2025-06-29 09:16:07 DEBUG o.e.ParameterizedLoggingExample - User Sumit is 21 years old
+2025-06-29 09:16:07 WARN  o.e.ParameterizedLoggingExample - Disk space low for user: Sumit
+2025-06-29 09:16:07 ERROR o.e.ParameterizedLoggingExample - User Sumit encountered an unknown error at 1751168767647
